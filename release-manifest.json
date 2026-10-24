@@ -1,0 +1,27 @@
+{
+  "name": "ai-image-prompts-skill",
+  "version": "1.1.0",
+  "releaseDate": "2026-10-24",
+  "documentationLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "exampleCoverLanguages": [
+    "zh-CN",
+    "ms"
+  ],
+  "upstream": {
+    "repository": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
+    "packageVersion": "1.0.4",
+    "commit": null,
+    "sourceArchive": "ai-image-prompts-skill-main.zip",
+    "sha256": "f8e653da60515a97d0e6883a826160bec192b08bbe7fe745d78b02727e78563b"
+  },
+  "library": {
+    "updatedAt": "2026-10-23T16:46:03.588Z",
+    "categories": 11,
+    "uniquePrompts": 15260,
+    "categoryEntries": 22985,
+    "upstreamReportedPrompts": 15802
+  }
+}

@@ -1,0 +1,10 @@
+Use case: text-localization. Edit this completed Lemon8 travel cover to change ONLY the text language from Chinese to natural Bahasa Melayu (Malay). Preserve the exact photograph, the woman's facial identity and expression, cream hijab, white modest dress, raised hand, body, boat, bag, water, greenery, sunlight, photo crop, 3:4 vertical aspect ratio and the entire cream/forest-green/butter-yellow graphic design.
+Replace the top yellow handwritten label "出游日记" with "DIARI JALAN-JALAN".
+Replace the large Chinese headline "把周末 / 交给大自然" with the exact Malay headline across three balanced lines within the same upper vegetation area:
+"HUJUNG MINGGU"
+"DEKAT DENGAN"
+"ALAM"
+Use bold friendly rounded cream lettering with deep forest-green outlines. Make "ALAM" the largest word, with a butter-yellow hand-drawn underline. Fit the new text into the upper area without covering the woman's face or raised hand; use good letter spacing and mobile-feed legibility.
+Keep the lower-left yellow location label text exactly "Taman Kemesraan".
+Replace the right-side Chinese handwritten annotation "慢下来，刚刚好" with the exact natural Malay line "Santai dulu, nikmati suasana", broken into two small handwritten lines if needed, in the same cream color over the water.
+All Chinese text must be fully removed and replaced; do not leave any Chinese characters. Keep the little leaf doodle and small curved arrow in appropriate positions. Maximum two lettering styles. No additional words, logos, watermark, UI or invented information. No changes to the person or clothing, no different face, no extra limbs. Output one finished high-resolution 3:4 Malay Lemon8 cover.

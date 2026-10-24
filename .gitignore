@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.env.*
+references/.last-updated
+.DS_Store
+__pycache__/

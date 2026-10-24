@@ -1,0 +1,44 @@
+[
+  {
+    "id": 446,
+    "content": "Write as many cute handwritten notes and highlights as possible on the photo!",
+    "title": "Cute handwritten notes over a photo",
+    "description": "Asks Nano Banana Pro to overlay lots of cute handwritten annotations onto a photo, ideal for playful social posts or decorated snapshots.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885802545_yjxgp1_G6WIjoEaQAAUqb1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21814,
+    "content": "A prompt for a chocolate-brown themed vertical magazine cover featuring Japanese typography, distressed textures, and a main portrait with smaller polaroid overlays.",
+    "title": "Japanese Street Culture Magazine Cover",
+    "description": "A prompt for a chocolate-brown themed vertical magazine cover featuring Japanese typography, distressed textures, and a main portrait with smaller polaroid overlays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779435494558_hggq76_HI0rpXcWcAAKcu4.jpg",
+      "https://cms-assets.youmind.com/media/1779435494543_26bhvx_HI0rpZmXsAEWWNf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 9722,
+    "content": "Mia OOTD Stickers Using my uploaded selfie as the exact reference, keep my face, body, proportions, and outfit completely unchanged with photorealistic accuracy.\nAdd white sticker-style borders around individual outfit items, as if they were cut out and pasted onto the image. Include aesthetic fashion notebook annotations, with soft pencil-style handwritten labels and arrows pointing to each item.\nThe annotations should feel like a scrapbook or fashion journal, minimal and clean, not overcrowded. Maintain the realism of the original photo while layering editorial-style outfit callouts on top.\nOverall style feels like a Japanese/Korean fashion magazine OOTD breakdown, blending realistic photography with playful scrapbook elements, clean composition, soft tones, and a polished yet casual aesthetic.",
+    "title": "OOTD Sticker Style Breakdown",
+    "description": "A prompt for transforming an uploaded selfie into a stylized 'Outfit of the Day' (OOTD) image, maintaining photorealistic accuracy of the subject while adding white sticker borders and aesthetic fashion notebook annotations, mimicking a Japanese/Korean fashion magazine breakdown.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770792206468_er6hyd_HAxsFcvacAANQJ9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22065,
+    "content": "Transform the {argument name=\"source image\" default=\"uploaded photo\"} into {argument name=\"visual style\" default=\"Sticker Collage Scrapbook Cover Effect\"}. Use the {argument name=\"source image\" default=\"uploaded image\"} as the ONLY identity reference for the subject. Preserve identity, face shape, hairstyle, expression, outfit cues, and overall recognizability while rendering the final concept in a polished, premium, highly shareable way. Build the full scene around the exact visual language implied by the title. Keep the subject clearly readable. Add the right atmosphere, props, and composition cues to make the concept instantly understandable. Negative constraints. No identity drift, no extra people, no broken anatomy, no muddy rendering, no generic AI artifacts, and no irrelevant mixed styles.",
+    "title": "Scrapbook Cover Sticker Collage Effect",
+    "description": "A style transfer prompt that transforms an uploaded photo into a polished, premium sticker collage scrapbook cover while strictly preserving the subject's identity and facial features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779607882682_6nr4ru_HJBKv0MaQAAVQeb.jpg",
+      "https://cms-assets.youmind.com/media/1779607882752_n0t4bv_HJBKv3EbMAAvGDc.jpg"
+    ],
+    "needReferenceImages": true
+  }
+]

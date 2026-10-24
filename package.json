@@ -1,0 +1,73 @@
+{
+  "name": "ai-image-prompts-skill",
+  "version": "1.1.0",
+  "description": "Bilingual illustrated distribution of the YouMind image prompt skill, with offline installation and real cover examples.",
+  "type": "module",
+  "scripts": {
+    "generate": "npx tsx scripts/generate-references.ts",
+    "typecheck": "tsc --noEmit",
+    "postinstall": "node scripts/setup.js",
+    "setup": "node scripts/setup.js",
+    "sync": "node scripts/setup.js --force",
+    "install:local": "node scripts/install.js",
+    "validate": "node scripts/validate.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "openclaw",
+    "openclaw-skill",
+    "clawhub",
+    "claude-code",
+    "claude-code-skill",
+    "cursor",
+    "skill",
+    "ai-image-prompts",
+    "image-generation",
+    "prompt-library",
+    "prompt-engineering",
+    "prompt-templates",
+    "image-prompts",
+    "text-to-image",
+    "ai-art",
+    "ai-image",
+    "nano-banana-pro",
+    "nano-banana-2",
+    "seedream",
+    "gpt-image",
+    "midjourney-prompts",
+    "dall-e-prompts",
+    "flux-prompts",
+    "stable-diffusion-prompts",
+    "gemini-image",
+    "content-creation",
+    "ai-agent-skill",
+    "image-prompt-recommend"
+  ],
+  "author": "YouMind-OpenLab",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "qs-esm": "^7.0.2"
+  },
+  "packageManager": "pnpm@9.15.9+sha512.68046141893c66fad01c079231128e9afb89ef87e2691d69e4d40eee228988295fd4682181bae55b58418c3a253bde65a505ec7c5f9403ece5cc3cd37dcf2531",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pusatpakaiankime-bit/ai-image-prompts-skill.git"
+  },
+  "homepage": "https://github.com/pusatpakaiankime-bit/ai-image-prompts-skill#readme",
+  "contributors": [
+    {
+      "name": "pusatpakaiankime-bit",
+      "url": "https://github.com/pusatpakaiankime-bit"
+    }
+  ],
+  "engines": {
+    "node": ">=20"
+  }
+}

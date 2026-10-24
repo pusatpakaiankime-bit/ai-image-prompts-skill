@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Image Prompts"
+  short_description: "Find image templates and customize photo-cover prompts"
+  default_prompt: "Use $ai-image-prompts-skill to find image prompt templates with samples for my content."
